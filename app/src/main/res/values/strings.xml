@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_Roll">Roll</string>
+    <string name="button_clearSet">Clear</string>
+    <string name="fragment_graph">Graph plot will happen here</string>
+</resources>
